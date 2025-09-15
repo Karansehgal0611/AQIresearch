@@ -1,0 +1,5 @@
+Model,Best_Val_Loss,Best_Params
+CNN-LSTM,2283.5498046875,"{'batch_size': 32, 'cnn_filters': 64, 'dense_units': 128, 'dropout_rate': 0.4, 'learning_rate': 0.001, 'lstm_units': 128, 'rnn_units': 32}"
+CNN-BiLSTM,2200.392333984375,"{'batch_size': 64, 'cnn_filters': 64, 'dense_units': 256, 'dropout_rate': 0.3, 'learning_rate': 0.0005, 'lstm_units': 64, 'rnn_units': 64}"
+RNN-LSTM,1993.7349853515625,"{'batch_size': 32, 'cnn_filters': 32, 'dense_units': 256, 'dropout_rate': 0.3, 'learning_rate': 0.001, 'lstm_units': 128, 'num_rnn_layers': 3, 'rnn_activation': 'relu', 'rnn_units': 256}"
+RNN-CNN,2618.23583984375,"{'batch_size': 64, 'cnn_filters': 32, 'dense_units': 128, 'dropout_rate': 0.4, 'learning_rate': 0.001, 'lstm_units': 64, 'num_rnn_layers': 3, 'rnn_activation': 'tanh', 'rnn_units': 128}"

@@ -1,0 +1,9 @@
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+env/
+venv/
+
+archive/
+*.pkl

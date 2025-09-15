@@ -1,0 +1,2 @@
+optimization_date,best_score,learning_rate,dropout_rate,dense_units,cnn_filters,lstm_units,batch_size
+2025-09-15 23:09:14,2129.166015625,0.0013658426050382534,0.21252531698222343,221,75,140,60
